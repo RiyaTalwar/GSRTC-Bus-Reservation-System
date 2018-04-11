@@ -1,0 +1,10 @@
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (20, 'Express', 10, 30);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (22, 'Gurjar Nagri', 8, 32);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (40, 'Volvo', 7, 50);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (15, 'Intercity Express', 6, 30);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (15, 'Express', 4, 30);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (10, 'Sleeper', 2, 21);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (33, 'Volvo', 1, 50);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (19, 'Gurjar Nagri', 3, 32);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (24, 'Ordinary', 5, 60);
+INSERT INTO bus (seats_available, bus_type, bus_number, capacity) VALUES (36, 'Volvo', 9, 50);
